@@ -41,7 +41,7 @@ programmer_hash[:alan_kay][:known_for]
 end
 
 def dennis_ritchies_language
-	programmer_hash = {
+  programmer_hash = {
     grace_hopper:
     {
       known_for: "COBOL",
@@ -85,7 +85,7 @@ programmer_hash
 end
 
 def changing_alan
-	programmer_hash = {
+  programmer_hash = {
     grace_hopper:
     {
       known_for: "COBOL",
@@ -108,7 +108,7 @@ programmer_hash
 end
 
 def adding_to_dennis
-	programmer_hash = {
+  programmer_hash = {
     grace_hopper:
     {
       known_for: "COBOL",
